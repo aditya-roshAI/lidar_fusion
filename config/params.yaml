@@ -1,0 +1,17 @@
+# config/lidar_transforms.yaml
+
+ouster1:
+  x: 0.0
+  y: 0.8
+  z: 0.3
+  roll: 0.0
+  pitch: 0.0
+  yaw: 3.14
+
+ouster2:
+  x: 0.0
+  y: -0.8
+  z: 0.3
+  roll: 0.0
+  pitch: 0.0
+  yaw: 3.14
